@@ -278,7 +278,7 @@ loop   @1234567890
        ret
 TempFree        dw      0
 FreeSpace       db      10 dup (0)
-StringFree      db      ' °†©‚ ·¢Æ°Æ§≠Æ ≠† §®·™• '
+StringFree      db      ' –±–∞–π—Ç —Å–≤–æ–±–æ–¥–Ω–æ –Ω–∞ –¥–∏—Å–∫–µ '
                 db      0
 MMMFree         db      ':'
 GetFreeSpace endp

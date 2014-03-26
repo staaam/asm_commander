@@ -101,10 +101,10 @@ OOOPPP004:
        call     Path
        call     ScrChg
        ret
-Tabl1  db       'ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿'
-Tabl2  db       '³1. Read MasterBoot Sector.  ³'
-Tabl3  db       '³2. Read Boot Sector.        ³'
-Tabl4  db       '³3. Write MasterBoot Sector. ³'
-Tabl5  db       '³4. Write Boot Sector.       ³'
-Tabl6  db       'ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ'
+Tabl1  db       'â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”'
+Tabl2  db       'â”‚1. Read MasterBoot Sector.  â”‚'
+Tabl3  db       'â”‚2. Read Boot Sector.        â”‚'
+Tabl4  db       'â”‚3. Write MasterBoot Sector. â”‚'
+Tabl5  db       'â”‚4. Write Boot Sector.       â”‚'
+Tabl6  db       'â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜'
 MbrAndBr endp

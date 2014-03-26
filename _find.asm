@@ -32,7 +32,7 @@ Exit:
         int     20h
 MyConvert       proc
 
-;� SI ���� ��㤠, � DI �㤠
+;в SI адрес откуда, в DI куда
         push    si
         mov     cx,8
 Next:
